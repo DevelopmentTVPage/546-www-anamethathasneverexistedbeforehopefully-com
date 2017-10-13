@@ -10,6 +10,6 @@
     "type": "inline",
     "title": "OK Project",
     "name": "ok-project",
-    "channelId": "117407923",
+    "channelId": "117407922",
     "layout": "bootstrap"
 }
